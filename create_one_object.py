@@ -1,6 +1,6 @@
 from create_one_attribute import Person
 
 #create an object named "person" whose name is "Ali"
-p2 = Person('Ali')
+person = Person('Ali')
 
-print(p2.name)
+print(person.name)
