@@ -6,7 +6,9 @@ from create_one_attribute import Person
 
 #Add these objects to the "persons" named list
 persons = []
-
-persons.append(p1 = Person('Anvar'))
-persons.append(p2 = Person('Shavkat'))
-persons.append(p3 = Person('Jasur'))
+p1 = Person('Anvar')
+p2 = Person('Shavkat')
+p3 = Person('Jasur')
+persons.append(p1)
+persons.append(p2)
+persons.append(p3)
