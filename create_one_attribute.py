@@ -6,4 +6,4 @@ class Person:
 
 p1 = Person('Jhon')
 
-print(p1.name)
+# print(p1.name)
