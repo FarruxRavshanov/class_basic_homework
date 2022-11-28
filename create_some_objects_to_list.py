@@ -5,3 +5,8 @@ from create_one_attribute import Person
 #Create an object named "p3" whose name is "Jasur"
 
 #Add these objects to the "persons" named list
+persons = []
+
+persons.append.(p1 = Person('Anvar'))
+persons.append.(p2 = Person('Shavkat'))
+persons.append(p3 = Person('Jasur'))
