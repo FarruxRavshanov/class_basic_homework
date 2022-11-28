@@ -3,4 +3,5 @@
 #that has a name("name") and a age("age")
 class Person:
     def __init__(self, name, age)
-        pass
+        self.name = name
+        self.age = age
